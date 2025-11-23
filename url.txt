@@ -1,19 +1,6 @@
-
----Daily Usage---
-https://city.imd.gov.in/citywx/responsive/?id=42599 , Dumka Weather
+---Important LINKS---
 https://www.newsonair.gov.in/?s=ranchi&date_from=&date_to=&post_type= , Ranchi News
 https://www.newsonair.gov.in/listen-broadcast-category/daily-broadcast/, Daily Broadcast
-https://www.india.gov.in/calendar?a=1756835204556, Holiday Calendar
-https://rajeshphy.github.io/Aca/RECORDS/05_SKMU_Notification/A._Important/2025-Holiday-List.pdf, SKMU Holiday
-
-
----Important LINKS---
-https://egazette.jharkhand.gov.in/Gazette.aspx , Jharkhand Gazette
-https://dst.gov.in/ , DST
-https://www.indiascienceandtechnology.gov.in/ , Indian Science Tech & Innovation Portal
+https://city.imd.gov.in/citywx/responsive/?id=42599 , Dumka Weather
 https://www.pib.gov.in/indexm.aspx , PIB
-https://www.pib.gov.in/PMContents/PMContents.aspx?menuid=1&Lang=1&RegionId=3&reg=3# , PM Office
-https://www.india.gov.in/, National Portal
-https://webcast.gov.in/ , Video Portal
-https://www.mygov.in/ , Participate
-
+https://rajeshphy.github.io/Aca/RECORDS/05_SKMU_Notification/A._Important/2025-Holiday-List.pdf, SKMU Holiday
